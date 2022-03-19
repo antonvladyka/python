@@ -1,5 +1,12 @@
 ## HDF Viewer
-A simple HDF reader based on PyQt. Supports only up to two-dimensional datasets.
+A simple HDF reader based on PyQt. Supports up to two-dimensional datasets.
+![screenshot](/HDF Viewer/hdfviewer.png)
+
+## PyQt pyqtgraph
+GUI for the automation of the furnace for the automation of the CNT growth. Implemented in PyQt5 with pyqtplot for live plotting of the sensor data. Supports loading/saving the settings (aka recipes). 
+
+![screenshot](/PyQt_pyqtgraph/screenshot.png)
+![code_screenshot](/PyQt_pyqtgraph/code.png)
 
 ## SOM
 Numpy and pyTorch implementations of Kohonen's Self-organizing maps (SOM).
