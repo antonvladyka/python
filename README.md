@@ -16,3 +16,6 @@ A simple demo how to utilize Transfer learning approach: prediction of the struc
 
 ## [Finite Elements Analysis](/Finite%20Elements%20Analysis/finite_elements.ipynb)
 A simple implementation of the numeric solution of 2D Laplace equation using Finite Elements.
+
+## [Molecular Fragments](/MolecularFragments/molecular_fragments.ipynb)
+To deduce the list of fragments from the molecule as a result of ion decomposition, e.g. during X-ray coincidence spectrospoy experiment. Molecule is given in SMILES format. Returns list of fragments with its masses, also in LaTeX format, as well as fragments with a given mass.
